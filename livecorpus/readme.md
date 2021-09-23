@@ -1,2 +1,2 @@
 ## Livecorpus ##
-# Видео: https://drive.google.com/drive/folders/1NObZZ9kH3TXIXF15dHOP9lZnPARDH4k7?usp=sharing #
+# Видео: https://drive.google.com/file/d/1FQuptsUu8weJnCAaeDxg8h8k9bPTA1Kn/view?usp=sharing #
