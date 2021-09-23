@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-23T20:44:19+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/niend/Downloads/patov_k.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../../Downloads/patov_k.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:36002de4-0a78-4d74-bec6-aa3de8363e6c</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">49</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="8960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="9090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="14190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="15000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="17020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="17250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="22570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="23050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="28680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="28780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="31490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="31530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="38130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="38670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="40950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="41410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="43155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="43400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="45597"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="46000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="50150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="50760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="52940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="53010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="59990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="60180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="63000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="63030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="66940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="67090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="72570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="72740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="75900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="76220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="79660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="80030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="84540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="84590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="88730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="88810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="91600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="92130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="92440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="92925"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="97325"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Pund-E" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@kdp1994m" TIER_ID="text@kdp1994m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>ну это ж н... не прозвище / вино майора Патова / это всё-таки название команды / вообще / людей / с которыми //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>эм / на самом деле сегодня только / эээ / из основного состава ээ / Паша Зарослов / который диджеил //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>вот / и / два сыктывкарских музыканта которые / к нам / совершенно случайно присоединились / и //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ну / мы были безумно рады на самом деле этому //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>вообще / в основном составе / есть ещё ярославский / музыкант такой / Михаил Черенков / но / он к сожалению не смог сегодня приехать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>с нами / поэтому вот / бе... без него //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>а прозвищей / нет никаких //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>ммм / ну в каком смысле / сами? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ну / за музыкальную часть полностью ээ / отвечает / Павел Зарослов //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>собственно я отвечаю только за / тексты / и очень часто / ну вот это такой проект //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>который / очень часто у нас рождается / импровизационно / то есть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>зачастую мы / каждый концерт играем абсолютно разные программы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>и то есть даже ээ / те же самые тексты например я их читаю под какую-то другую музыку //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>и / как раз-таки такое ээ / разнообразие / я не знаю мне / вот / нравится //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>но музыка полностью вот на / на Паше Зарословом //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>я / я в это не лезу / и / м... мне кажется я даже не очень / п... понимаю в этом //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Pund-E" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@nc1999m" TIER_ID="text@nc1999m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>аа / вопрос эээ / следующий //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>есть ли у вас какие-то прозвища кроме / вино майора Патова / и эээ реально... эээ риал аа / нейм / #смеётся# //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>те люди которые / сегодня выступали это / ваша команда? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>посмотрел я ваше / мероприятие //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>понял то что человек вы достаточно творческий / мероприятие вот вообще вы сами его готовили? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ну / эээ / вся / вся мысль / за вами лежит / то есть вот музыку кто прописывал / вот эту аранжировку / которая на заднике играла? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>во время ваших эээ / слов //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>мхм //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Pund-E" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@kdp1994m"
+        PARTICIPANT="@kdp1994m" TIER_ID="transl@kdp1994m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Well now, that is... isn't a nickname, Major Patov's wine, in fact that's the name of the team of people that...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Um, actually, today, the only one, uh, from the usual lineup is uh, Pasha Zaroslov, the DJ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Yeah, and two players from Syktyvkar who joined us by chance, so...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Well, we were actually really happy about that.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Well, there is also a certain player from Yarolsavl in the usual lineup, Mikhail Chernov, but unfortunately he couldn't come today...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Couldn't join us, so yeah, he's... he's not here.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>And about nicknames, I don't have any.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Umm, what do you mean, "by yourself"?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Well, everything related to music is, uhh, entirely on Pavel Zaroslov.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>I am only responsible for the verses actually, and real often, it's just that kind of project...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>That is improvised real often, like...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>We often perform completely different sets every concert.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>And it's just that uh, I even read the same verses to different music for example.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>And it's that, uh, variety, that I, I dunno, like.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>But the music is entirely on Pasha Zaroslov.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>I'm not involved in any of that, and I... I don't even think I really g... get all that.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Pund-E" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@nc1999m"
+        PARTICIPANT="@nc1999m" TIER_ID="transl@nc1999m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Uh, so uh, next question.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Do you have any nicknames other than Major Patov's wine and uhm, your real, uh, real name?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>The people who performed here today are your team?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>I attended your... event.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>And realized that you're a pretty creative person. Did you prepare the event yourself?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Well, uh, is the, the entire concept, your doing, like who decided on the music, like the arrangement that was playing in the background?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>During your, uhh, speech.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Mhm.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_907f218f-1300-4621-9b64-b07ad445be9c">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_73fd13a9-56dd-4993-9066-9082b8c3ac76">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3133d03f-7416-4e6d-8470-4f6c741d436f">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9cfc70f5-a855-4a10-b11c-72f5f667c565">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_419a6ce0-9d06-4ab0-89e8-71abb890a407">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2633025f-5e12-4c63-a3e4-8beed229b90f">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d9541f19-c4cd-4d77-8716-a14dee82dc63">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9d0653c0-c303-4c6b-8f1f-8abfecf168b9">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_53f87e37-d8a2-44cd-8f50-61cd318c1315">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_919a9815-33e3-4c58-9fb8-cae49da85cde">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_62596ded-3d86-4e05-85c7-78838b782912">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_af9ad0f0-db0a-4e16-9d9d-e75ccf110528">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7121a047-ac83-4d6b-8489-b98240d8d2f4">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_f989a3f0-f763-43b1-9bbe-8e9a9dead4db">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9aefb697-8715-48ab-9545-696684115ca2">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f3bfcf5f-0851-40d8-87fd-1572d6a60a24">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7ba82116-6624-4042-a3d3-0245bc0b243b">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
